@@ -12,12 +12,12 @@ cd current-account-balance
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Launch dev server
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### View result
 ```
-npm run build
+Go to localhost:8080
 ```
